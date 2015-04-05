@@ -1,0 +1,10 @@
+/Users/larrypavanery/Projects/Ver2/App/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/larrypavanery/Projects/Ver2/App/bin/App.dll.mdb
+/Users/larrypavanery/Projects/Ver2/App/bin/App.dll
+/Users/larrypavanery/Projects/Ver2/App/obj/Release/App.dll
+/Users/larrypavanery/Projects/Ver2/App/obj/Release/App.dll.mdb
+/Users/larrypavanery/Desenvolvimento/dotNet/PersonalPage/App/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/larrypavanery/Desenvolvimento/dotNet/PersonalPage/App/bin/App.dll.mdb
+/Users/larrypavanery/Desenvolvimento/dotNet/PersonalPage/App/bin/App.dll
+/Users/larrypavanery/Desenvolvimento/dotNet/PersonalPage/App/obj/Release/App.dll
+/Users/larrypavanery/Desenvolvimento/dotNet/PersonalPage/App/obj/Release/App.dll.mdb
