@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Noticia/Noticia.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Noticia/Cadastrar.aspx">
+    <Files>
+      <File FileName="Noticia/master.master" Line="27" Column="67" />
+      <File FileName="Noticia/index.aspx" Line="9" Column="32" />
+      <File FileName="Noticia/Cadastrar.aspx" Line="4" Column="60" />
+      <File FileName="Noticia/Cadastrar.aspx.cs" Line="10" Column="36" />
+      <File FileName="Noticia/Cadastrar.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="Noticia/index.aspx.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
